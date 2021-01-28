@@ -86,4 +86,4 @@ E foram testados os seguintes requisitos:
 Feito por Gustavo Seabra Silva. 
 
  [![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoseabra87/)](https://www.linkedin.com/in/guseabra87/) 
-[![Gmail Badge](https://img.shields.io/badge/-gustavo.seabra.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.seabra.silva@gmail.com)](mailto:gustavo.seabra.silva@gmail.com)# stone-elixir-test
+[![Gmail Badge](https://img.shields.io/badge/-gustavo.seabra.silva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.seabra.silva@gmail.com)](mailto:gustavo.seabra.silva@gmail.com)
