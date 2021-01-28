@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1611846016536" clover="3.2.0">
+  <project timestamp="1611846016536" name="All files">
+    <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7" elements="28" coveredelements="28" complexity="0" loc="15" ncloc="15" packages="1" files="1" classes="1"/>
+    <file name="shop.js" path="/home/gustavo/Documentos/dev/TESTES_EMPREGO/teste-stone/js/shop.js">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="7" coveredmethods="7"/>
+      <line num="10" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="21" count="8" type="stmt"/>
+      <line num="26" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="32" count="8" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="40" count="6" type="stmt"/>
+      <line num="41" count="6" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
