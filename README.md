@@ -5,7 +5,15 @@
 </h1>
 <p align="center">🧑🏻‍💻 Programa de Formação em Elixir | Teste Técnico</p>
 
-## 🛠 Tecnologias 
+<p align="center">
+ <a href="#tecnologias">Tecnologias</a> |
+ <a href="#prerequisitos">Pré-requisitos</a> |
+ <a href="#resolucao">Resolução</a> |
+ <a href="#testes">Especificação dos testes</a> |
+ <a href="#autor">Autor</a> 
+</p>
+
+<h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -14,7 +22,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Jest](https://jestjs.io/)
 
 
-## Pré-requisitos 
+<h2 id="prerequisitos"> Pré-requisitos </h2>
 
 Antes de começar, você vai precisar ter instalado em sua máquina o [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
@@ -32,7 +40,7 @@ $ yarn test
 
 ```
 
-## Resolução 
+<h2 id="resolucao"> Resolução </h2>
 Foi criada uma função que recebe como argumentos um array objetos e um array de strings, tendo como retorno um dicionário que tem como key o usuário e como value o valor total dividido de compras.
 
 Além da função principal foram criadas duas funções auxiliares, uma que remove emails duplicados, impedindo que um usuario entre duas vezes na divisão da conta.
@@ -55,7 +63,7 @@ A função principal faz entao uma verificação se há arrays vazios no argumen
 Depois é feita uma verificação se o total distribuido equivale ao total existente caso nao seja o programa faz a redistribuição e então retornamos como valor final um dicionario contendo o usuario como key e o valor a pagar como value
 
 
-## Especificação dos testes
+<h2 id="testes"> Especificação dos testes</h2>
 Para o teste foi utilizada a lib Jest. Inclusa como devdependency do projeto no package.json
 E foram testados os seguintes requisitos:
 
@@ -67,7 +75,7 @@ E foram testados os seguintes requisitos:
   
   ✓ convert repeated mail to single mail
 
-## Autor 
+<h2 id="autor"> Autor </h2>
 ---
 
 <a href="https://github.com/devguga87">
